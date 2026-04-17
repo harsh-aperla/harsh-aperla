@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Venkata Harsha Perla
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Venkata Harsha Perla
 =============================================================================================================================================
 
 Al Engineer | Al/ ML & GenAl Solutions | Software Engineer | GenAl SoftwareEngineer | AWS | Python | React | SQL | Strands | LangChain | CDK | Ex-Deloitte | Masters @GMU
@@ -10,79 +10,37 @@ AI Engineer with 3-4 years of experience building production-grade LLM and multi
 * ✉️  You can contact me at [perlaharsha007@gmail.com](mailto:perlaharsha007@gmail.com)
 * 👥  I'm looking to collaborate on AI usecase
 
-<h3>Skills</h3>
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+### Skills
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-  </a>
+![LLM Fine-tuning](https://img.shields.io/badge/-LLM%20Fine--tuning-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-4CAF50?style=flat-square&logo=weightsandbiases&logoColor=white)
+![vLLM](https://img.shields.io/badge/-vLLM-8E44AD?style=flat-square&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AI Safety](https://img.shields.io/badge/-AI%20Safety-E53935?style=flat-square&logo=shield&logoColor=white)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-  </a>
-
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  </a>
-
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" />
-  </a>
-
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />
-  </a>
-
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  </a>
-
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" title="AWS" width="36" height="36" />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
-  </a>
-
-</div>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/harsh-aperla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/perla-venkata-sri-harsha-2476aa18b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
 ### Badges
 
 <b>Top Repositories</b>
