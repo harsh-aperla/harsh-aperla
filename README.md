@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Al Engineer | Al/ ML & GenAl Solutions | Software Engineer | GenAl SoftwareEngineer | AWS | Python | React | SQL | Strands | LangChain | CDK | Ex-Deloitte | Masters @GMU
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-AI Engineer with 3-4 years of experience building production-grade LLM and multi-agent systems, including real-time and conversational AI workflows. Strong expertise in RAG pipelines, vector retrieval, and scalable AI systems on AWS. Proven track record deploying safe, reliable AI solutions with strong focus on evaluation, observability, and human-centered design.
+AI Engineer with 4-5 years of experience building production-grade LLM and multi-agent systems, including real-time and conversational AI workflows. Strong expertise in RAG pipelines, vector retrieval, and scalable AI systems on AWS. Proven track record deploying safe, reliable AI solutions with strong focus on evaluation, observability, and human-centered design.
 
 * 🌍  I'm based in Redmond, WA
 * ✉️  You can contact me at [perlaharsha007@gmail.com](mailto:perlaharsha007@gmail.com)
